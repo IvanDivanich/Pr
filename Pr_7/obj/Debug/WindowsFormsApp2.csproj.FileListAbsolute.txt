@@ -1,0 +1,12 @@
+C:\Users\Игровой\Downloads\pr7-master\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Игровой\Downloads\pr7-master\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Игровой\Downloads\pr7-master\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Игровой\Downloads\pr7-master\obj\Debug\WindowsFormsApp2.pdb
