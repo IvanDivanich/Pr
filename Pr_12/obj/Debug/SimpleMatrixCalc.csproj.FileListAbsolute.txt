@@ -1,0 +1,11 @@
+C:\Users\Игровой\Desktop\pr10_11_12-master\bin\Debug\SimpleMatrixCalc.exe.config
+C:\Users\Игровой\Desktop\pr10_11_12-master\bin\Debug\SimpleMatrixCalc.exe
+C:\Users\Игровой\Desktop\pr10_11_12-master\bin\Debug\SimpleMatrixCalc.pdb
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.csproj.AssemblyReference.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.MatrixCalcForm.resources
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.Properties.Resources.resources
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.csproj.GenerateResource.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.exe
+C:\Users\Игровой\Desktop\pr10_11_12-master\obj\Debug\SimpleMatrixCalc.pdb
