@@ -1,0 +1,11 @@
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\bin\Debug\GrabGraphicObjects.exe.config
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\bin\Debug\GrabGraphicObjects.exe
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\bin\Debug\GrabGraphicObjects.pdb
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.csproj.AssemblyReference.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.Form1.resources
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.Properties.Resources.resources
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.csproj.GenerateResource.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.csproj.CoreCompileInputs.cache
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.exe
+C:\Users\Игровой\Desktop\pr10_11_12-master\GrabGraphicObjects\obj\Debug\GrabGraphicObjects.pdb
