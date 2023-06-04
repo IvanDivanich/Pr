@@ -1,0 +1,11 @@
+E:\С#\Пр11\Пр11\bin\Debug\Пр11.exe.config
+E:\С#\Пр11\Пр11\bin\Debug\Пр11.exe
+E:\С#\Пр11\Пр11\bin\Debug\Пр11.pdb
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.csproj.AssemblyReference.cache
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.csproj.SuggestedBindingRedirects.cache
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.Form1.resources
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.Properties.Resources.resources
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.csproj.GenerateResource.cache
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.csproj.CoreCompileInputs.cache
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.exe
+E:\С#\Пр11\Пр11\obj\Debug\Пр11.pdb
