@@ -1,0 +1,12 @@
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\bin\Debug\Пр8.exe.config
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\bin\Debug\Пр8.exe
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\bin\Debug\Пр8.pdb
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.csproj.AssemblyReference.cache
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.Colors.resources
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.Form1.resources
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.Properties.Resources.resources
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.csproj.GenerateResource.cache
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.csproj.CoreCompileInputs.cache
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.exe
+C:\Users\Игровой\Downloads\PR8_9-master\Пр8\obj\Debug\Пр8.pdb
